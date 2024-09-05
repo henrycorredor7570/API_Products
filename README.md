@@ -10,3 +10,8 @@
   <li>TypeScript</li>
   <li>Mocha y Chai (para pruebas)</li> 
 </ul> 
+
+<h4>Descarga el proyecto en tu IDE de preferencia</h4>
+<h4>Para poner en funcionamiento el servidor ejecuta el comando: <h5>npm start</h5></h4>
+<h4>Para ejecutar los test ejecuta el comando: <h5>npx mocha --config mocha.config.js</h5></h4>
+
