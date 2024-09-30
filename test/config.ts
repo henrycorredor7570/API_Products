@@ -1,4 +1,4 @@
-import mongoose from "mongoose";
+import mongoose from "mongoose"; 
 require('dotenv').config({path:'.env.test'});
 const MONGO_TEST_URI = process.env.DB_URL;
 
